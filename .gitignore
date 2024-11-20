@@ -1,0 +1,9 @@
+/build
+*.zip
+__pycache__/
+*.py[cod]
+*.sqlite3
+config.json
+*.zip
+env/
+venv/
